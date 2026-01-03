@@ -1,3 +1,5 @@
+// NCint v1.0.0 See more information at https://github.com/Necream/NCint
+
 #ifndef __NCINT_HPP__
 #define __NCINT_HPP__
 
